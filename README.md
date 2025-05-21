@@ -51,6 +51,10 @@ The game also introduces players to basic programming concepts through a custom 
    - Built using Raylib for rendering.
    - Includes interactive screens for coding, hiring, shopping, and skill tree navigation.
 
+![image_alt](https://github.com/Artist06/BuildOpsCpp/blob/master/map_stocks.png?raw=true)
+
+![image_alt](https://github.com/Artist06/BuildOpsCpp/blob/master/bank_image.png?raw=true)
+
 ---
 
 ### Tech Stack
@@ -70,6 +74,8 @@ The game also introduces players to basic programming concepts through a custom 
 ---
 
 ### Key Highlights
+
+![image_alt](https://github.com/Artist06/BuildOpsCpp/blob/master/isa_image.png?raw=true)
 
 1. **Custom Interpreter and ISA**:
 
