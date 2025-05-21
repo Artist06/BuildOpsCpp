@@ -20,6 +20,7 @@ The game also introduces players to basic programming concepts through a custom 
 
 #### Core Features
 
+![image_alt](https://github.com/Artist06/BuildOpsCpp/blob/master/worker_image.png?raw=true)
 1. **Grid System**:
 
    - The office environment is represented as a grid, where each cell can have a specific purpose (e.g., work area, lunch area, reception).
