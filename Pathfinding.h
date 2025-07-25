@@ -6,14 +6,15 @@ using namespace std;
 class Pathfinding
 {
 	public:
-
+		
 		struct Node {
 			short int x, y;
 			float fcost;
 			float gcost;
-			vector<pair<short int, short int>> path;
+			vector<pair<short int, short int>> path; 
 		};
 		struct NodeComparison {
+			//for pq comparisons
 			bool operator()(Node const& node1, Node const& node2)
 			{
 				return (node1.fcost > node2.fcost);
