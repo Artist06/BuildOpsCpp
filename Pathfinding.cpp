@@ -1,5 +1,6 @@
 #include "Pathfinding.h"
 
+//A* algorithm with major focus on heuristic
 std::vector<std::pair<short, short>> directions = { {-1, 0}, {1, 0}, {0, -1}, {0, 1}, {-1, 1}, {-1, -1}, {1, -1}, {1, 1} };
 
 float heuristic(int x1, int y1, int x2, int y2) {
